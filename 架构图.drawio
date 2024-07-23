@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T08:59:48.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rPDtKI75VoUdSekjjgbG" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T09:29:51.671Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yEi44NgLqDVFqlZpp4Xh" version="22.1.17" type="github">
   <diagram name="第 1 页" id="zslPpBOo_P6XogDbhWJ_">
     <mxGraphModel dx="1626" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-43" value="实验组：脓毒症患者ICU-AW动态适配运动管理模式" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="990" width="150" height="43" as="geometry" />
+          <mxGeometry x="980" y="968.75" width="150" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ymYwd5ZLmvvjPEtG-dLQ-44" target="ymYwd5ZLmvvjPEtG-dLQ-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +167,7 @@
           <mxGeometry x="980" y="1058" width="150" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-47" value="效果评价：两组患者ICU-AW发生率、MRC肌力评分、BI评分、机械通气时间、住ICU时间、患者/家属满意度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="1011.75" width="300" height="60" as="geometry" />
+          <mxGeometry x="1170" y="1000" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-48" value="获取最佳证据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="547.75" width="120" height="35" as="geometry" />
