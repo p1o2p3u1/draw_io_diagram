@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T12:02:40.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GKLcZkJo9Qlg5q_MyY2D" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T12:04:25.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="O-jVIUqI2X9lttMIA9Ut" version="22.1.17" type="github">
   <diagram name="第 1 页" id="zslPpBOo_P6XogDbhWJ_">
-    <mxGraphModel dx="1264" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1423" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="861" width="870" height="259" as="geometry" />
+          <mxGeometry x="580" y="861" width="860" height="259" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-111" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="460" width="870" height="356.5" as="geometry" />
+          <mxGeometry x="580" y="460" width="860" height="356.5" as="geometry" />
         </mxCell>
         <mxCell id="sJCHcfk5sTZRHp9Zx4Ab-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ymYwd5ZLmvvjPEtG-dLQ-109" target="sJCHcfk5sTZRHp9Zx4Ab-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="120" width="870" height="300.5" as="geometry" />
+          <mxGeometry x="580" y="120" width="860" height="300.5" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-2" value="&lt;b&gt;第一部分&lt;/b&gt;&lt;div&gt;&lt;b&gt;纵向研究&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="240.25" width="150" height="60" as="geometry" />
@@ -138,7 +138,7 @@
           <mxGeometry x="620" y="946" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-38" value="确定研究对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="800" y="881" width="120" height="35" as="geometry" />
+          <mxGeometry x="800" y="885" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ymYwd5ZLmvvjPEtG-dLQ-39" value="基线数据评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="946" width="120" height="35" as="geometry" />
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJCHcfk5sTZRHp9Zx4Ab-1" value="&lt;h2 style=&quot;margin-top: 13pt; margin-bottom: 13pt; break-after: avoid; line-height: 36.6933px; font-family: Arial; font-size: 16pt;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;font face=&quot;仿宋&quot;&gt;脓毒症患者&lt;/font&gt;ICU&lt;font face=&quot;仿宋&quot;&gt;获得性衰弱发展轨迹与动态适配运动管理模式&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman Regular&amp;quot;; font-size: 16pt;&quot;&gt;&lt;font face=&quot;仿宋&quot;&gt;研究&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman Regular&amp;quot;; font-size: 16pt;&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE8EA;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="580" y="21" width="870" height="60" as="geometry" />
+          <mxGeometry x="580" y="21" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sJCHcfk5sTZRHp9Zx4Ab-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFE8EA;strokeColor=#b85450;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sJCHcfk5sTZRHp9Zx4Ab-1" target="ymYwd5ZLmvvjPEtG-dLQ-109">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,7 +326,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sJCHcfk5sTZRHp9Zx4Ab-24" value="诊断、纳排标准同纵向研究" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="877" width="150" height="43" as="geometry" />
+          <mxGeometry x="980" y="881" width="150" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sJCHcfk5sTZRHp9Zx4Ab-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymYwd5ZLmvvjPEtG-dLQ-38" target="sJCHcfk5sTZRHp9Zx4Ab-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
