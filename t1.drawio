@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.14" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16" pages="8">
   <diagram name="第 1 页" id="D3v7gk10sWUU6twCLJav">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -1617,6 +1617,35 @@
         </mxCell>
         <mxCell id="R5SXh6e8HcD2wvoMnBye-116" value="探究病房护士非人工气道管理培训现状及需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;dashed=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="690" y="351.88" width="280" height="44.24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fS4QQLFvdSD6PWcug7Qd" name="第 8 页">
+    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-1" target="unh5EYaZ3nxKyo_4yyy8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-1" target="unh5EYaZ3nxKyo_4yyy8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-1" target="unh5EYaZ3nxKyo_4yyy8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-1" value="基于" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-2" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-3" value="理论基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="170" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unh5EYaZ3nxKyo_4yyy8-4" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
