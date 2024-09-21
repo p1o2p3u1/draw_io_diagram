@@ -1654,7 +1654,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-1" value="基于米勒金字塔能力模型的病房护士非人工气道管理培训方案的构建与初步应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="70" width="570" height="60" as="geometry" />
+          <mxGeometry x="442.5" y="70" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-2" target="unh5EYaZ3nxKyo_4yyy8-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1666,13 +1666,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-3" value="理论基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="185" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8YPCMRkhxtN85lor-YKD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-4" target="qbvr9wCUB_JFdXEHUgbE-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1070" y="185" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-4" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="185" width="370" height="60" as="geometry" />
+          <mxGeometry x="435" y="185" width="585" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-8" target="unh5EYaZ3nxKyo_4yyy8-9">
           <mxGeometry relative="1" as="geometry" />
@@ -1683,10 +1680,16 @@
         <mxCell id="8YPCMRkhxtN85lor-YKD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-9" target="qbvr9wCUB_JFdXEHUgbE-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8YPCMRkhxtN85lor-YKD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-9" target="mn0jjO-zfzXsOTG8eJmj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-9" value="文献循证&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Delphi法&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="419" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-10" target="qbvr9wCUB_JFdXEHUgbE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YPCMRkhxtN85lor-YKD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-10" target="unh5EYaZ3nxKyo_4yyy8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-10" value="量性研究&lt;div&gt;质性研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1828,7 +1831,10 @@
           <mxGeometry x="840" y="419" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-13" value="米勒金字塔模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="279" width="180" height="590" as="geometry" />
+          <mxGeometry x="1070" y="279" width="180" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="8YPCMRkhxtN85lor-YKD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.789;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-4" target="qbvr9wCUB_JFdXEHUgbE-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
