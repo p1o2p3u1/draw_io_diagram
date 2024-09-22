@@ -1654,13 +1654,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-2" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="171" width="130" height="60" as="geometry" />
+          <mxGeometry x="272" y="171" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontSize=16;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-3" target="8YPCMRkhxtN85lor-YKD-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-3" value="理论基础" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="171" width="130" height="60" as="geometry" />
+          <mxGeometry x="1059" y="171" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=16;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-4" target="qbvr9wCUB_JFdXEHUgbE-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1672,7 +1672,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-8" value="方&lt;div style=&quot;font-size: 16px;&quot;&gt;案&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;构&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="40" height="200" as="geometry" />
+          <mxGeometry x="201" y="430" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontSize=16;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-9">
           <mxGeometry relative="1" as="geometry">
@@ -1683,7 +1683,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-9" value="文献循证&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Delphi法&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="430" width="130" height="200" as="geometry" />
+          <mxGeometry x="272" y="430" width="130" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontSize=16;" edge="1" parent="1" source="unh5EYaZ3nxKyo_4yyy8-10" target="qbvr9wCUB_JFdXEHUgbE-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1692,7 +1692,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unh5EYaZ3nxKyo_4yyy8-10" value="量性研究&lt;div style=&quot;font-size: 16px;&quot;&gt;质性研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="274" width="130" height="110" as="geometry" />
+          <mxGeometry x="272" y="274" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xdjhGHBYuae1BJlNtEbf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontSize=16;" edge="1" parent="1" source="xdjhGHBYuae1BJlNtEbf-1" target="xdjhGHBYuae1BJlNtEbf-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1767,13 +1767,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn0jjO-zfzXsOTG8eJmj-7" value="应&lt;div style=&quot;font-size: 16px;&quot;&gt;用&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;研&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="666.74" width="40" height="223.26" as="geometry" />
+          <mxGeometry x="201" y="666.74" width="40" height="223.26" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;fontSize=16;" edge="1" parent="1" source="mn0jjO-zfzXsOTG8eJmj-8" target="8YPCMRkhxtN85lor-YKD-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn0jjO-zfzXsOTG8eJmj-8" value="类试验研究" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="666.74" width="130" height="223.26" as="geometry" />
+          <mxGeometry x="272" y="666.74" width="130" height="223.26" as="geometry" />
         </mxCell>
         <mxCell id="P2oiRB_wAHQIh0qW_kKh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=16;" edge="1" parent="1" source="P2oiRB_wAHQIh0qW_kKh-1" target="P2oiRB_wAHQIh0qW_kKh-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1848,13 +1848,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qbvr9wCUB_JFdXEHUgbE-6" value="需&lt;div style=&quot;font-size: 16px;&quot;&gt;求&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;调&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="180" y="275" width="40" height="110" as="geometry" />
+          <mxGeometry x="201" y="275" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qbvr9wCUB_JFdXEHUgbE-7" value="构建《病房护士非人工气道管理培训方案》" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="830" y="451" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-13" value="米勒金字塔模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="270" width="130" height="620" as="geometry" />
+          <mxGeometry x="1059" y="270" width="130" height="620" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontStyle=0" edge="1" parent="1" source="qbvr9wCUB_JFdXEHUgbE-1" target="qbvr9wCUB_JFdXEHUgbE-7">
           <mxGeometry relative="1" as="geometry" />
