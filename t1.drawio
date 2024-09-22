@@ -1627,7 +1627,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8YPCMRkhxtN85lor-YKD-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="130" y="10" width="1120" height="940" as="geometry" />
+          <mxGeometry x="150" y="30" width="1080" height="890" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="435" y="664.24" width="585" height="228.76" as="geometry" />
@@ -1842,7 +1842,7 @@
           <mxGeometry x="920" y="779.94" width="80" height="32.37" as="geometry" />
         </mxCell>
         <mxCell id="qbvr9wCUB_JFdXEHUgbE-1" value="探究病房护士非人工气道管理培训现状及需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="800" y="299" width="200" height="70" as="geometry" />
+          <mxGeometry x="840" y="299" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8YPCMRkhxtN85lor-YKD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0;fontSize=14;" edge="1" parent="1" source="qbvr9wCUB_JFdXEHUgbE-6" target="unh5EYaZ3nxKyo_4yyy8-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1856,7 +1856,7 @@
         <mxCell id="8YPCMRkhxtN85lor-YKD-13" value="米勒金字塔模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1070" y="270" width="130" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="8YPCMRkhxtN85lor-YKD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontStyle=0" edge="1" parent="1" source="qbvr9wCUB_JFdXEHUgbE-1" target="qbvr9wCUB_JFdXEHUgbE-7">
+        <mxCell id="8YPCMRkhxtN85lor-YKD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontStyle=0" edge="1" parent="1" source="qbvr9wCUB_JFdXEHUgbE-1" target="qbvr9wCUB_JFdXEHUgbE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
